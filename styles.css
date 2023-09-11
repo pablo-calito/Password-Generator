@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #6A00D3;
+}
+
+.icon{
+    font-size: 20px;
+}
+
+.max-min{
+    border-radius: 15px ;
+    border: #6A00D3;
+}
+
+#password {
+    font-size: 18px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+button {
+    font-size: 16px;
+    padding: 5px 10px;
+    margin: 10px;
+    border-radius: 17px;
+    background: blue;
+    color: #fff;
+}
+
+button:hover{
+    background-color: aquamarine;
+    color: blue
+}
+
+.generador{
+    border: #6A00D3;
+    background-color: #9D4BEF;
+    margin: 40%;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.texto{
+    border-radius: 200px;
+}
+
+.generador label {
+   margin: 20px;
+   margin-top: 10px;
+}
+
